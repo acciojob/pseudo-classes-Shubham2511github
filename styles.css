@@ -2,7 +2,7 @@
 :root{
 	background-color: skyblue;
 }
-h3:first-child{
+p:first-child{
 	background-color: black;
 	color:white;
 	margin-top: 0;
