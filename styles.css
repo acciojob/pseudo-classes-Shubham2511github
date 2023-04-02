@@ -7,7 +7,7 @@ p:first-child{
 	color:white;
 	margin-top: 0;
 }
-p:nth-child(5){
+p:nth-child(4){
 	color: red;
 }
 li:first-child{
